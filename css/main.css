@@ -1,0 +1,15 @@
+ul {
+	list-style: none;
+}
+ul li {
+	text-align: left;
+}
+div {
+	text-align: left;
+}
+h1 {
+	text-align: center;
+}
+body {
+	font-size: 14px;
+}
